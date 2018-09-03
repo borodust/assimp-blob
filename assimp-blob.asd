@@ -1,7 +1,7 @@
 (asdf:defsystem assimp-blob
   :description "Open Asset Import Library (assimp) foreign library collection"
   :license "MIT"
-  :version "v4.1.0"
+  :version "4.1.0"
   :author "Pavel Korolev"
   :defsystem-depends-on (:bodge-blobs-support)
   :class :bodge-blob-system
